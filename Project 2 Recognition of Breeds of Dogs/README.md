@@ -1,8 +1,3 @@
-﻿DESCRIÇÃO:
-O objetivo desse projeto é criar um algoritimo usando uma rede neural convolucional(CNN) para detectar raças de cães,
-o algoritimo recebe o uma imagem como entrada, o modelo irá detectar qual a raça do cão, caso a imagem seja de uma pessoa,
-o modelo deverá dizer qual a raça de cão mais parecida com a pessoa. O algoritimo consegue distinguir entre 133 raças de cães.
-
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
