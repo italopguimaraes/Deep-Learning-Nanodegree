@@ -1,7 +1,0 @@
-instruções:
-coloque o arquivo haarcascade_frontalface_alt2.xml na pasta haarcascades, 
-coloque a pasta imagens_teste dentro da pasta do projeto principal(dog project)
-
-instructions:
-place the haarcascade_frontalface_alt2.xml file in the haarcascades folder,
-put the images_test folder inside the main project folder (dog project)
