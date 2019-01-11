@@ -1,8 +1,3 @@
-﻿DESCRIÇÃO:
-O objetivo desse projeto é construir uma rede neural recorrente (RNN) para gerar scripts para Os Simpsons. 
-usando parte de um conjunto de dados de scripts de 27 temporadas dos Simpsons. A rede neural gera um novo script 
-para uma cena no Bar do Moe.
-
 [//]: # (Image References)
 
 [image1]: ./images/skin_disease_classes.png "Skin Disease Classes"
