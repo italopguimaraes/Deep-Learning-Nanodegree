@@ -1,7 +1,3 @@
-﻿DESCRIÇÃO:
-O objetivo desse projeto é construir uma rede neural geradora adversária(GAP) para gerar novas imagens de rostos, com base
-em imagens de pessoas reais usadas para treinar a rede.
-
 [//]: # (Image References)
 
 [image1]: ./images/skin_disease_classes.png "Skin Disease Classes"
