@@ -1,20 +1,5 @@
-#My Fabulous Recipe
-
-This recipe for **cereal and milk** has been passed down my family for months.
-
-##Ingredients
-
-
-+Cereal (you can find cool cereals [here](www.example.com/coolcereals)
-+Milk
-
-
-##Directions
-
-If I were writing these out as _code_, it might look something like this:
-
-'''if bowl is empty:
-    add cereal
-if bowl only has cereal in it:
-    add milk
-'''
+DESCRIÇÃO:
+O objetivo desse projeto, é criar uma rede neural para resolver um problema de predição em um conjunto de dados real! 
+Construindo uma rede neural do zero, você vai entender muito melhor como funcionam o gradiente descendente, backpropagation 
+e outros conceitos importantes antes de começarmos a usar ferramentas como Tensorflow. Você também terá uma chance de ver sua 
+rede resolvendo um problema real!
