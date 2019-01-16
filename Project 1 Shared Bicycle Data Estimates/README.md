@@ -24,8 +24,8 @@ For more information see:
 1. Download the anaconda or miniconda, following the instructions in the lesson on Anacoda, contained in the course introduction.
 1. Create a new conda environment
 `conda create --name dlnd python = 3`
-1. Enter your environment:  +Mac / Linux: >> `source activate dlnd`
-+Windows: >> `activate dlnd`
+1. Enter your environment:  - Mac / Linux: >> `source activate dlnd`
+- Windows: >> `activate dlnd`
 
 1. Open the notebook:
 `jupyter notebook`
