@@ -8,7 +8,7 @@ The data come from the [UCI Machine Learning Database](https://archive.ics.uci.e
 
 ## Software dependencies
 
-1. " numpy "
+1. ''' numpy '''
 1. " matplotlib "
 1. " pandas "
 1. " jupyter notebook "
