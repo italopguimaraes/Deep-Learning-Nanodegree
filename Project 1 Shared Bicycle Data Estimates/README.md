@@ -25,8 +25,8 @@ For more information see:
 4. Create a new conda environment
 `conda create --name dlnd python = 3`
 5. Enter your environment:  
-  - Mac / Linux: >> `source activate dlnd`
-  - Windows: >> `activate dlnd`
+- Mac / Linux: >> `activate dlnd`
+- Windows: >> `activate dlnd`
 6. Open the notebook:
 `jupyter notebook`
 7. In the browser, open the file **Your_first_neural_network.ipynb**
