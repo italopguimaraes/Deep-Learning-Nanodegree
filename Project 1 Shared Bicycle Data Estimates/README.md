@@ -8,7 +8,7 @@ The data come from the [UCI Machine Learning Database](https://archive.ics.uci.e
 
 ## Software dependencies
 
-1. "numpy"
+"numpy"
 1. " matplotlib "
 1. " pandas "
 1. " jupyter notebook "
@@ -17,7 +17,7 @@ To install the dependencies run the following command:
 
 " conda install numpy matplotlib pandas jupyter notebook "
 
-For more information see this [link](README.md)
+For more information see this [link](requirements.txt)
 
 
 ## Installation Instructions
