@@ -26,8 +26,8 @@ For more information see:
 `conda create --name dlnd python = 3`
 1. Enter your environment:
 
-*Mac / Linux: >> `source activate dlnd`
-*Windows: >> `activate dlnd`
+1. Mac / Linux: >> `source activate dlnd`
+1. Windows: >> `activate dlnd`
 
 1. Open the notebook:
 `jupyter notebook`
