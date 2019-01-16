@@ -29,9 +29,13 @@ git clone https://github.com/Italo-Pereira-Guimaraes/Deep-Learning-Nanodegree.gi
 
 5. Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  Place it in the repo, at location `path/to/dog-project/bottleneck_features`.
 
-6. (Optional) __If you plan to install TensorFlow with GPU support on your local machine__, follow [the guide](https://www.tensorflow.org/install/) to install the necessary NVIDIA software on your system.  If you are using an EC2 GPU instance, you can skip this step.
+6. In the browser, open the file **dog_app.ipynb**
 
-7. (Optional) **If you are running the project on your local machine (and not using AWS)**, create (and activate) a new environment.
+7. Follow the instructions on the notebook that lead you through the project.
+
+8. (Optional) __If you plan to install TensorFlow with GPU support on your local machine__, follow [the guide](https://www.tensorflow.org/install/) to install the necessary NVIDIA software on your system.  If you are using an EC2 GPU instance, you can skip this step.
+
+9. (Optional) **If you are running the project on your local machine (and not using AWS)**, create (and activate) a new environment.
 
 	- __Linux__ (to install with __GPU support__, change `requirements/dog-linux.yml` to `requirements/dog-linux-gpu.yml`): 
 	```
@@ -53,7 +57,7 @@ git clone https://github.com/Italo-Pereira-Guimaraes/Deep-Learning-Nanodegree.gi
 	activate dog-project
 	```
 
-8. (Optional) **If you are running the project on your local machine (and not using AWS)** and Step 6 throws errors, try this __alternative__ step to create your environment.
+10. (Optional) **If you are running the project on your local machine (and not using AWS)** and Step 6 throws errors, try this __alternative__ step to create your environment.
 
 	- __Linux__ or __Mac__ (to install with __GPU support__, change `requirements/requirements.txt` to `requirements/requirements-gpu.txt`): 
 	```
@@ -72,12 +76,12 @@ git clone https://github.com/Italo-Pereira-Guimaraes/Deep-Learning-Nanodegree.gi
 	pip install -r requirements/requirements.txt
 	```
 	
-9. (Optional) **If you are using AWS**, install Tensorflow.
+11. (Optional) **If you are using AWS**, install Tensorflow.
 ```
 sudo python3 -m pip install -r requirements/requirements-gpu.txt
 ```
 	
-10. Switch [Keras backend](https://keras.io/backend/) to TensorFlow.
+12. Switch [Keras backend](https://keras.io/backend/) to TensorFlow.
 	- __Linux__ or __Mac__: 
 		```
 		KERAS_BACKEND=tensorflow python -c "from keras import backend"
@@ -88,17 +92,17 @@ sudo python3 -m pip install -r requirements/requirements-gpu.txt
 		python -c "from keras import backend"
 		```
 
-11. (Optional) **If you are running the project on your local machine (and not using AWS)**, create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the `dog-project` environment. 
+13. (Optional) **If you are running the project on your local machine (and not using AWS)**, create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the `dog-project` environment. 
 ```
 python -m ipykernel install --user --name dog-project --display-name "dog-project"
 ```
 
-12. Open the notebook.
+14. Open the notebook.
 ```
 jupyter notebook dog_app.ipynb
 ```
 
-13. (Optional) **If you are running the project on your local machine (and not using AWS)**, before running code, change the kernel to match the dog-project environment by using the drop-down menu (**Kernel > Change kernel > dog-project**). Then, follow the instructions in the notebook.
+15. (Optional) **If you are running the project on your local machine (and not using AWS)**, before running code, change the kernel to match the dog-project environment by using the drop-down menu (**Kernel > Change kernel > dog-project**). Then, follow the instructions in the notebook.
 
 __NOTE:__ While some code has already been implemented to get you started, you will need to implement additional functionality to successfully answer all of the questions included in the notebook. __Unless requested, do not modify code that has already been included.__
 
