@@ -33,7 +33,7 @@ For more information see:
 8. Follow the instructions on the notebook that lead you through the project.
 
 ## license
-
+ 
 For more information see:
 
 [license](LICENSE.txt)
