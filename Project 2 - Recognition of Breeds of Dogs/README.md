@@ -13,9 +13,19 @@ Welcome to the Convolutional Neural Networks (CNN) project at AI Nanodegree! In 
 
 Our goal is that by completing this lab, in addition to exploring state-of-the-art CNN models for classification, the student will make important design decisions about the user experience for the application and understand the challenges involved in assembling a series of models designed to perform multiple tasks in a data-processing pipeline. Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer. This imperfect solution, however, will create a fun user experience!
 
-## Project Instructions
+This project is part of Udacity's deep learning nanodegree program, if you are interested, see [repository](https://github.com/udacity/dog-project) of the original project.
 
-### Instructions
+## Software dependencies
+
+Make sure the  `h5py`, `scipy`, `tqdm`, `keras`, `sklearn`, `pillow`, `opencv-python`, `numpy`, `matplotlib`, `tensorflow`, `ipykernel` and `jupyter notebook` are installed:
+
+`conda install h5py scipy tqdm keras sklearn pillow opencv-python numpy matplotlib tensorflow ipykernel jupyter notebook`
+
+View the software dependencies according to your hardware and operating system below:
+
+[dependencies](requirements/)
+
+## Project Instructions
 
 1. Clone the repository.
 ```	
@@ -23,11 +33,11 @@ git clone https://github.com/Italo-Pereira-Guimaraes/Deep-Learning-Nanodegree.gi
 ```
 2. And navigate to the **Project 2 - Recognition of Breeds of Dogs/** folder by the terminal `cd Project 2 - Recognition of Breeds of Dogs`.
 
-3. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`. 
+3. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/Project 2 - Recognition of Breeds of Dogs/dogImages`. 
 
-4. Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder. 
+4. Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in the repo, at location `path/to/Project 2 - Recognition of Breeds of Dogs/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder. 
 
-5. Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  Place it in the repo, at location `path/to/dog-project/bottleneck_features`.
+5. Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  Place it in the repo, at location `path/to/Project 2 - Recognition of Breeds of Dogs/bottleneck_features`.
 
 6. In the browser, open the file **dog_app.ipynb**
 
@@ -108,16 +118,7 @@ __NOTE:__ While some code has already been implemented to get you started, you w
 
 ## Evaluation
 
-Your project will be reviewed by a Udacity reviewer against the CNN project [rubric](https://review.udacity.com/#!/rubrics/810/view).  Review this rubric thoroughly, and self-evaluate your project before submission.  All criteria found in the rubric must meet specifications for you to pass.
-
-## Project Submission
-
-When you are ready to submit your project, collect the following files and compress them into a single archive for upload:
-- The `dog_app.ipynb` file with fully functional code, all code cells executed and displaying output, and all questions answered.
-- An HTML or PDF export of the project notebook with the name `report.html` or `report.pdf`.
-- Any additional images used for the project that were not supplied to you for the project. __Please do not include the project data sets in the `dogImages/` or `lfw/` folders.  Likewise, please do not include the `bottleneck_features/` folder.__
-
-Alternatively, your submission could consist of the GitHub link to your repository.
+This project was reviewed by a reviewer Udacity against the CNN project heading. All the criteria found in the [rubric](https://review.udacity.com/#!/rubrics/810/view) met the specifications.
 
 ## license
  
