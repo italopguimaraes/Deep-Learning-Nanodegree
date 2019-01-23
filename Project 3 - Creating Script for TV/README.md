@@ -19,7 +19,9 @@ To install software dependencies:
 ## Installation Instructions
 
 1. Download the project material from our [github repository](https://github.com/Italo-Pereira-Guimaraes/Deep-Learning-Nanodegree). You can get the full repository with the command `git clone https://github.com/Italo-Pereira-Guimaraes/Deep-Learning-Nanodegree.git`, or by downloading a zip through the site.
-2. Enter the **Project 3 - Creating Script for TV** folder by the terminal.
+2. Enter the **Project 3 - Creating Script for TV** folder by the terminal:
+
+	-`cd Project 3 - Creating Script for TV`
 3. Download the anaconda or miniconda, following the instructions in the lesson on Anacoda, contained in the course introduction.
 4. Create a new conda environment
 `conda create --name dlnd python = 3`
