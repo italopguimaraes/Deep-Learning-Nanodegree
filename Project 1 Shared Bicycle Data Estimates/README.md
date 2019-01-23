@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, you will make a neural network to solve a prediction problem in a real dataset! By building a neural network from scratch, you will understand much better how the gradient, backpropagation, and other important concepts work before we start using tools like Tensorflow. You also get a chance to see your network solving a real problem!
+In this project, a neural network was developed to predict shared bicycle data estimates, using a real-world dataset, when constructing a neural network from scratch, it is possible to understand much better how the descending gradient works, the backpropagation and other important concepts before you start using tools like Tensorflow.
 
 The data come from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset). 
 
