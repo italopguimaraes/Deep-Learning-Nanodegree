@@ -4,6 +4,8 @@
 
 In this project, a recurring neural network was developed to generate scripts for The Simpsons. Using part of a set of 27-year Simpsons season script data. The neural network implemented will generate a new script for a scene in the Moe Bar.
 
+This project is part of Udacity's deep learning nanodegree program, if you are interested in checking out the original project, see the `tv-script-generation` folder in this [repository](https://github.com/udacity/deep-learning.git).
+
 ## Software Dependencies
 
 To check the software dependencies used in this project, see the link below: 
