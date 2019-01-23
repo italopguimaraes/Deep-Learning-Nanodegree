@@ -1,6 +1,0 @@
-model_checkpoint_path: "face_generation_i3100_l0.7677037715911865.ckpt"
-all_model_checkpoint_paths: "face_generation_i2700_l0.7873071432113647.ckpt"
-all_model_checkpoint_paths: "face_generation_i2800_l0.9840452075004578.ckpt"
-all_model_checkpoint_paths: "face_generation_i2900_l0.9522706270217896.ckpt"
-all_model_checkpoint_paths: "face_generation_i3000_l0.5530418753623962.ckpt"
-all_model_checkpoint_paths: "face_generation_i3100_l0.7677037715911865.ckpt"
