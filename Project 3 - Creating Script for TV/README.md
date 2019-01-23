@@ -15,7 +15,6 @@ To check the software dependencies used in this project, see the link below:
 To install software dependencies:
 
 	- `conda install requirements.txt`
-
 ## Installation Instructions
 
 1. Download the project material from our [github repository](https://github.com/Italo-Pereira-Guimaraes/Deep-Learning-Nanodegree). You can get the full repository with the command `git clone https://github.com/Italo-Pereira-Guimaraes/Deep-Learning-Nanodegree.git`, or by downloading a zip through the site.
