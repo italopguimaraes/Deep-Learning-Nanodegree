@@ -8,9 +8,9 @@ This project is part of Udacity's deep learning nanodegree program, if you are i
 
 ## Software Dependencies
 
-Make sure the `tqdm` are installed:
+Make sure the `tqdm`, `numpy`, `tensorflow`, `matplotlib` and `jupyter notebook` are installed:
 
-`conda install tqdm==4.11.2`
+`conda install tqdm numpy tensorflow matplotlib jupyter notebook`
 
 To check the software dependencies used in this project, see the link below: 
 
