@@ -18,7 +18,7 @@ This project is part of Udacity's deep learning nanodegree program, if you are i
 
 Make sure the `opencv-python`, `numpy`, `pandas`, `ipykernel`, `tensorflow`, `matplotlib` and `jupyter notebook` are installed:
 
-`conda install opencv-python numpy pandas ipykernel tensorflow matplotlib jupyter notebook
+`conda install opencv-python numpy pandas ipykernel tensorflow matplotlib jupyter notebook`
 
 To check the software dependencies used in this project, see the link below: 
 
