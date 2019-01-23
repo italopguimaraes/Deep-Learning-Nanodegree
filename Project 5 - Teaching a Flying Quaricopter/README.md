@@ -26,7 +26,7 @@ To check the software dependencies used in this project, see the link below:
 
 To install software dependencies:
 
-`conda install floyd_requirements.txt`
+`conda install requirements.txt`
 
 ## Project Instructions
 
